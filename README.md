@@ -28,33 +28,6 @@ typedef struct {
 } Item;
 O inventário (mochila) é implementado como um vetor desta struct, com capacidade fixa.
 
-🚀 Como Compilar e Executar
-Para compilar e executar este projeto, você precisará de um compilador C, como o GCC.
-
-Clone o repositório:
-
-Bash
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
-
-Bash
-
-cd seu-repositorio
-Compile o código-fonte:
-
-Bash
-
-gcc inventario.c -o inventario
-Este comando compila o arquivo inventario.c e gera um arquivo executável chamado inventario.
-
-Execute o programa:
-
-Bash
-
-./inventario
-Após a execução, um menu interativo será exibido no console para que você possa utilizar as funcionalidades do sistema.
-
 🛠️ Tecnologias Utilizadas
 Linguagem: C
 
