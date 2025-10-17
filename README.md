@@ -1,8 +1,5 @@
-Claro! Um bom README.md é essencial para qualquer projeto no GitHub. Ele ajuda outros desenvolvedores (e até você mesmo no futuro) a entenderem rapidamente o propósito e o funcionamento do seu código.
+** Free Fire
 
-Aqui está um modelo de README.md completo e bem estruturado para o seu projeto, escrito em Markdown. Você pode copiar e colar este conteúdo diretamente em um arquivo chamado README.md no seu repositório do GitHub.
-
-Sistema de Inventário para Jogo de Sobrevivência em C
 Este projeto é uma implementação de um sistema de inventário básico em linguagem C, projetado para simular a mochila de loot inicial de um jogador em um jogo de sobrevivência. O sistema permite cadastrar, remover, listar e buscar itens, utilizando estruturas de dados (structs) e listas sequenciais (vetores) para gerenciar os dados.
 
 📜 Descrição do Projeto
